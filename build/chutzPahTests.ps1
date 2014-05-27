@@ -8,7 +8,7 @@ If(-not (Test-Path($chutzpahPath)))
 }
 
 
-$testPath =  Join-Path -Path $PSScriptRoot -ChildPath "..\norvenAnalyticsTests"
+$testPath =  Join-Path -Path $PSScriptRoot -ChildPath "..\WebApplication1.Tests"
 If(-not (Test-Path($testPath)))
 {
     Write-Error "Cannot find test path"
