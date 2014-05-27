@@ -65,7 +65,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\myViewModel.js" />
+    <Content Include="app\app.js" />
+    <Content Include="app\sut.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -64,7 +64,7 @@
     <Content Include="lib\jasmine-2.0.0\jasmine.js" />
     <Content Include="lib\jasmine-2.0.0\jasmine_favicon.png" />
     <Content Include="lib\sinon-1.9.1\sinon-1.9.1.js" />
-    <Content Include="myViewModelTests.js" />
+    <Content Include="sutTests.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="chutzpah.json" />
